@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+temp/
+venv/
+htmlcov/
+.coverage
+draft.py
+*.swp
+site/
+build/
+dist/
+*.egg-info/
+.aider*
+.DS_store
